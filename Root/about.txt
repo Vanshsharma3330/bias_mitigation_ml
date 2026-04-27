@@ -1,5 +1,3 @@
-Project Type - Research Paper
-
 Project Title : Comparative Analysis of Bias Mitigation Techniques in Supervised Machine Learning
 
 Team Details :
