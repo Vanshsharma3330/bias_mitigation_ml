@@ -1,9 +1,16 @@
-Project Type - Research Paper
+# Comparative Analysis of Bias Mitigation Techniques in Supervised Machine Learning
 
-Project Title : Comparative Analysis of Bias Mitigation Techniques in Supervised Machine Learning
+## Project Type
 
-Team Details :
-Vansh Sharma - 2210990939
-Yash - 2210990973
-Jatin Bansal - 2210991707
-Shashwat Singh - 2210990814
+Research
+
+## Team Details
+
+1. Vansh Sharma - 2210990939
+2. Yash - 2210990973
+3. Jatin Bansal - 2210991707
+4. Shashwat Singh - 2210990814
+
+## Current Status
+
+Submitted
